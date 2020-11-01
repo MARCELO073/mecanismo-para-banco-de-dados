@@ -1,13 +1,17 @@
 ﻿using System;
 
-namespace PIMVIII
+
+namespace PIMVIII.Entitites
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Nome : ");
-            Console.ReadLine();
+            Pessoa.preencherDadosPessoa();
+
+            
+
         }
+
     }
 }
