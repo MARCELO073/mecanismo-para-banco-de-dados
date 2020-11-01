@@ -1,0 +1,13 @@
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\bin\Debug\netcoreapp3.1\PIMVIII.exe
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\bin\Debug\netcoreapp3.1\PIMVIII.deps.json
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\bin\Debug\netcoreapp3.1\PIMVIII.runtimeconfig.json
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\bin\Debug\netcoreapp3.1\PIMVIII.runtimeconfig.dev.json
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\bin\Debug\netcoreapp3.1\PIMVIII.dll
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\bin\Debug\netcoreapp3.1\PIMVIII.pdb
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\obj\Debug\netcoreapp3.1\PIMVIII.csprojAssemblyReference.cache
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\obj\Debug\netcoreapp3.1\PIMVIII.AssemblyInfoInputs.cache
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\obj\Debug\netcoreapp3.1\PIMVIII.AssemblyInfo.cs
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\obj\Debug\netcoreapp3.1\PIMVIII.csproj.CoreCompileInputs.cache
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\obj\Debug\netcoreapp3.1\PIMVIII.dll
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\obj\Debug\netcoreapp3.1\PIMVIII.pdb
+C:\Users\MarceloPN\Documents\faculdade unip\Pim\Pim VIII\mecanismo-para-banco-de-dados\PIMVIII\obj\Debug\netcoreapp3.1\PIMVIII.genruntimeconfig.cache
